@@ -1,25 +1,27 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
   background-color: black;
 }
+
+<h1 style="background-color:DodgerBlue;"> >>vision<< </h1>
+  
+h1 {
+  color: beige;
+  text-align: left;
+}
 </style>
 </head>
 <body>
 
-<h1> vision </h1>
-{
-  color: beige;
-  text-align: left;
-}
-
-<p> nightmare in hiding </p>
 {
   font-family: helvetia;
   font-size: 35px;
 }
+
+<h1> vision </h1>
+<p> nightmare in hiding </p>
 
 </body>
 </html>
