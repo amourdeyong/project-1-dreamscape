@@ -9,12 +9,14 @@ body {
 </head>
 <body>
 
-h1 {
+<h1> vision </h1>
+{
   color: beige;
   text-align: left;
 }
 
-p {
+<p> nightmare in hiding </p>
+{
   font-family: helvetia;
   font-size: 35px;
 }
