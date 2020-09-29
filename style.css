@@ -1,27 +1,9 @@
-<html>
-<head>
-<style>
-
-body {
-  background-color: black;
+title{
+  style="font-family: 'helvetica'; font-size: 50; color: white"
 }
-
-h1 {
-  color: white;
-  margin-center: 65px;
+h1{
+  style="font-family: 'helvetica'; font-size: 20; color: white"
 }
-
-</style>
-</head>
-<body>
-
-{
-  font-family: helvetia;
-  font-size: 35px;
+p{
+  style="font-family: 'helvetica'; font-size: 20; color: white"
 }
-
-<h1 style="color:white;text-align:center;"> vision </h1>
-<p style="color:white;> nightmare in hiding </p>
-
-</body>
-</html>
