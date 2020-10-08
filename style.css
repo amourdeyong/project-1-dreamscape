@@ -1,13 +1,3 @@
-head{
-  .jam-drop { border: solid 20px #CF3;  } /* draw an outline when a file is dragged over the drop target */
-		.jam-ui { font-size: 18px; } /* make the UI text a bit bigger than usual */
-		.bar {
-			height:100%;
-			width: 32%;
-			background: #222;
-			position: absolute;
-			bottom: 0;
-}
 body{
   background-position: center;
   background-color: #000000;
