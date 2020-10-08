@@ -1,14 +1,14 @@
 body{
-  style="color: black"
+  style="color: #000000"
 }
 h1{
-  style="font-family: 'Helvetica'; font-size: 50; color: white"
+  style="font-family: 'Helvetica'; font-size: 50; color: #ffffff"
 }
 h2{
-  style="font-family: 'Helvetica'; font-size: 20; color: white"
+  style="font-family: 'Helvetica'; font-size: 20; color: #ffffff"
 }
 p{
-  style="font-family: 'Helvetica'; font-size: 20; color: white"
+  style="font-family: 'Helvetica'; font-size: 20; color: #ffffff"
 }
 img{
   width:400px;
