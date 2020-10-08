@@ -22,6 +22,6 @@ p{
 img{
   width:150px;
   padding:20pc;
-  background-position: right;
+  position: right;
   background-color:beige;
 }
