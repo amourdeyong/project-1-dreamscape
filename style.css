@@ -20,7 +20,8 @@ p{
   color: #ffffff;
 }
 img{
-  width:100px;
+  width:150px;
   padding:20pc;
+  background-position: right;
   background-color:beige;
 }
