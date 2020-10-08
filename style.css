@@ -2,13 +2,13 @@ body{
   style="color: #000000"
 }
 h1{
-  style="font-family: 'Helvetica'; align: center; font-size: 50; color: #ffffff"
+  style="font-family: 'Helvetica'; text-align: center; font-size: 50; color: #ffffff"
 }
 h2{
-  style="font-family: 'Helvetica'; align: center; font-size: 20; color: #ffffff"
+  style="font-family: 'Helvetica'; text-align: center; font-size: 20; color: #ffffff"
 }
 p{
-  style="font-family: 'Helvetica'; align: center; font-size: 20; color: #ffffff"
+  style="font-family: 'Helvetica'; text-align: center; font-size: 20; color: #ffffff"
 }
 img{
   width:100px;
