@@ -7,7 +7,7 @@ I'm breaking my feedback here into two parts - technical and conceptual.
 #### Technical
 
 ##### HTML
-- Understands Open/Closed Tags function and: **yes**
+- Understands Open/Closed Tags function and placement: **yes**
 - Understands tags with required closures vs no closures: **yes**
 - Understands essential blocks of a web page (e.g. "html", "head", and "body"):
 Make sure that all of your visible content that a viewer would see is always inside the **body** tag. Right now you have your images and links outside of the **/body** and **/html** tags. Move those before the closed body tag **/body** tag and you will be great.
